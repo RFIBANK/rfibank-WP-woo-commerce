@@ -8,6 +8,7 @@
 
 
 В Rficb прописываем:
+
 URL обработчика: http://your_domain/?wc-api=wc_rficb&rficb=result
 URL успешной оплаты: http://your_domain/?wc-api=wc_rficb&rficb=success
 URL ошибки: http://your_domain/?wc-api=wc_rficb&rficb=fail
